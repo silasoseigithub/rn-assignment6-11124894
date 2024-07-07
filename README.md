@@ -43,5 +43,10 @@ Changelog
 - Version 1.1: Added estimated total and checkout button to View List screen
 
 Screenshot of the app
+
+
+
 ![Uploading Screenshot (35).png…]()
+![Uploading Screenshot (36).png…]()
+
 
