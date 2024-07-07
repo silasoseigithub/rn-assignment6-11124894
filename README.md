@@ -42,8 +42,6 @@ Changelog
 - Version 1.0: Initial release
 - Version 1.1: Added estimated total and checkout button to View List screen
 
-Contributing
-Contributions are welcome! Please fork the repository and submit a pull request.
 
 Author
 [Silas Osei]
